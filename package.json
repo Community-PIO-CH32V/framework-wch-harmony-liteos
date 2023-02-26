@@ -1,0 +1,7 @@
+{
+    "description": "LiteOS is an open-source, lightweight IoT operating system (OS) released by Huawei in 2015",
+    "name": "framework-wch-harmony-liteos",
+    "system": "all",
+    "url": "https://github.com/LiteOS/LiteOS",
+    "version": "2.10000.0"
+}
